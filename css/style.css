@@ -1,6 +1,11 @@
 * {
-    margin :0;
-    pedding :0;
-    text-decoration : none;
-    list-style : none;
+    margin: 0;
+    padding: 0;
+
+    text-decoration: none;
+    list-style: none;
+}
+
+td, th {
+    text-align: center;
 }
